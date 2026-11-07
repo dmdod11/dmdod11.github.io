@@ -1,5 +1,5 @@
-site_name: DDDD
-# site_url: 
+site_name: my tech log
+site_url: https://dmdod11.github.io
 
 theme:
   name: material
